@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RegistroV7.props" />
+</Project>
